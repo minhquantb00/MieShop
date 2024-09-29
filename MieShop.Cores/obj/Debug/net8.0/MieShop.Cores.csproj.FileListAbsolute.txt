@@ -1,0 +1,12 @@
+D:\ProjectCSharp\MieShop\MieShop.Cores\bin\Debug\net8.0\MieShop.Cores.deps.json
+D:\ProjectCSharp\MieShop\MieShop.Cores\bin\Debug\net8.0\MieShop.Cores.dll
+D:\ProjectCSharp\MieShop\MieShop.Cores\bin\Debug\net8.0\MieShop.Cores.pdb
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.csproj.AssemblyReference.cache
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.AssemblyInfoInputs.cache
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.AssemblyInfo.cs
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.csproj.CoreCompileInputs.cache
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.dll
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\refint\MieShop.Cores.dll
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\MieShop.Cores.pdb
+D:\ProjectCSharp\MieShop\MieShop.Cores\obj\Debug\net8.0\ref\MieShop.Cores.dll

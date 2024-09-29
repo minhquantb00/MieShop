@@ -1,0 +1,6 @@
+@MieShop.Query.Api_HostAddress = http://localhost:5110
+
+GET {{MieShop.Query.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

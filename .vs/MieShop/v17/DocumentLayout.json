@@ -1,0 +1,588 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectCSharp\\MieShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|d:\\projectcsharp\\mieshop\\mieshop.query.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|solutionrelative:mieshop.query.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|d:\\projectcsharp\\mieshop\\mieshop.query.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|solutionrelative:mieshop.query.domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|d:\\projectcsharp\\mieshop\\mieshop.query.domain\\entities\\confirmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|solutionrelative:mieshop.query.domain\\entities\\confirmemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|d:\\projectcsharp\\mieshop\\mieshop.query.domain\\entities\\addressuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A557154E-0EBB-4D9B-9987-DF71124CBFA5}|MieShop.Query.Domain\\MieShop.Query.Domain.csproj|solutionrelative:mieshop.query.domain\\entities\\addressuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\iactivatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\iactivatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\ideleteable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\ideleteable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\dtos\\baserespose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\dtos\\baserespose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\enums\\enumerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\enums\\enumerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\ihascreationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\ihascreationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\ihasmodificationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\ihasmodificationtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|d:\\projectcsharp\\mieshop\\mieshop.commons\\base\\ihaskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E15C7DE-9E94-4C30-BE9E-B94214423476}|MieShop.Commons\\MieShop.Commons.csproj|solutionrelative:mieshop.commons\\base\\ihaskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\queries\\basequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\queries\\basequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\producers\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\producers\\ieventproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\infrastructures\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\infrastructures\\ieventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\infrastructures\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\infrastructures\\icommanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\handlers\\ieventsourcinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\handlers\\ieventsourcinghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\exceptions\\concurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\exceptions\\concurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\exceptions\\aggregatenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\exceptions\\aggregatenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\domains\\ieventstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\domains\\ieventstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\domains\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\domains\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\events\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\events\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\events\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\events\\baseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\consumers\\ieventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\consumers\\ieventconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\commands\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\messages\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|d:\\projectcsharp\\mieshop\\mieshop.cores\\mieshop.cores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9417AFDB-E7E2-4198-9284-37E76473A714}|MieShop.Cores\\MieShop.Cores.csproj|solutionrelative:mieshop.cores\\mieshop.cores.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "MieShop.Query.Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "MieShop.Query.Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:46:04.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfirmEmail.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\ConfirmEmail.cs",
+              "RelativeDocumentMoniker": "MieShop.Query.Domain\\Entities\\ConfirmEmail.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\ConfirmEmail.cs",
+              "RelativeToolTip": "MieShop.Query.Domain\\Entities\\ConfirmEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:43:24.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddressUser.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\AddressUser.cs",
+              "RelativeDocumentMoniker": "MieShop.Query.Domain\\Entities\\AddressUser.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\AddressUser.cs",
+              "RelativeToolTip": "MieShop.Query.Domain\\Entities\\AddressUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:41:45.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IActivatable.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IActivatable.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\IActivatable.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IActivatable.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\IActivatable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:32:51.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDeleteable.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IDeleteable.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\IDeleteable.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IDeleteable.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\IDeleteable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:31:48.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enumerate.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Enums\\Enumerate.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Enums\\Enumerate.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Enums\\Enumerate.cs",
+              "RelativeToolTip": "MieShop.Commons\\Enums\\Enumerate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:27:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHasCreationTime.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IHasCreationTime.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\IHasCreationTime.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IHasCreationTime.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\IHasCreationTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:21:31.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MieShop.Query.Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Query.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "MieShop.Query.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBsAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:12:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IHasModificationTime.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IHasModificationTime.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\IHasModificationTime.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IHasModificationTime.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\IHasModificationTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:21:13.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IEntity.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\IEntity.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IEntity.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:16:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\BaseEntity.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:13:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IHasKey.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IHasKey.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\Base\\IHasKey.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\Base\\IHasKey.cs",
+              "RelativeToolTip": "MieShop.Commons\\Base\\IHasKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:16:36.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRespose.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\DTOs\\BaseRespose.cs",
+              "RelativeDocumentMoniker": "MieShop.Commons\\DTOs\\BaseRespose.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Commons\\DTOs\\BaseRespose.cs",
+              "RelativeToolTip": "MieShop.Commons\\DTOs\\BaseRespose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:47:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseQuery.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Queries\\BaseQuery.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Queries\\BaseQuery.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Queries\\BaseQuery.cs",
+              "RelativeToolTip": "MieShop.Cores\\Queries\\BaseQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:04:39.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEventProducer.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Producers\\IEventProducer.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Producers\\IEventProducer.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Producers\\IEventProducer.cs",
+              "RelativeToolTip": "MieShop.Cores\\Producers\\IEventProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:03:46.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEventStore.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Infrastructures\\IEventStore.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Infrastructures\\IEventStore.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Infrastructures\\IEventStore.cs",
+              "RelativeToolTip": "MieShop.Cores\\Infrastructures\\IEventStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:02:29.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICommandDispatcher.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Infrastructures\\ICommandDispatcher.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Infrastructures\\ICommandDispatcher.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Infrastructures\\ICommandDispatcher.cs",
+              "RelativeToolTip": "MieShop.Cores\\Infrastructures\\ICommandDispatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:01:50.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEventSourcingHandler.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Handlers\\IEventSourcingHandler.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Handlers\\IEventSourcingHandler.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Handlers\\IEventSourcingHandler.cs",
+              "RelativeToolTip": "MieShop.Cores\\Handlers\\IEventSourcingHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:01:16.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConcurrencyException.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Exceptions\\ConcurrencyException.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Exceptions\\ConcurrencyException.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Exceptions\\ConcurrencyException.cs",
+              "RelativeToolTip": "MieShop.Cores\\Exceptions\\ConcurrencyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T08:00:10.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AggregateNotFoundException.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Exceptions\\AggregateNotFoundException.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Exceptions\\AggregateNotFoundException.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Exceptions\\AggregateNotFoundException.cs",
+              "RelativeToolTip": "MieShop.Cores\\Exceptions\\AggregateNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:59:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEventStoreRepository.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Domains\\IEventStoreRepository.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Domains\\IEventStoreRepository.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Domains\\IEventStoreRepository.cs",
+              "RelativeToolTip": "MieShop.Cores\\Domains\\IEventStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:58:24.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Domains\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Domains\\AggregateRoot.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Domains\\AggregateRoot.cs",
+              "RelativeToolTip": "MieShop.Cores\\Domains\\AggregateRoot.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvxoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:56:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Events\\EventModel.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Events\\EventModel.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Events\\EventModel.cs",
+              "RelativeToolTip": "MieShop.Cores\\Events\\EventModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:55:46.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseEvent.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Events\\BaseEvent.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Events\\BaseEvent.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Events\\BaseEvent.cs",
+              "RelativeToolTip": "MieShop.Cores\\Events\\BaseEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:54:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IEventConsumer.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Consumers\\IEventConsumer.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Consumers\\IEventConsumer.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Consumers\\IEventConsumer.cs",
+              "RelativeToolTip": "MieShop.Cores\\Consumers\\IEventConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:53:40.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Messages\\Message.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Messages\\Message.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Messages\\Message.cs",
+              "RelativeToolTip": "MieShop.Cores\\Messages\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:52:59.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Commands\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "MieShop.Cores\\Commands\\BaseCommand.cs",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\Commands\\BaseCommand.cs",
+              "RelativeToolTip": "MieShop.Cores\\Commands\\BaseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T07:52:20.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MieShop.Cores",
+              "DocumentMoniker": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\MieShop.Cores.csproj",
+              "RelativeDocumentMoniker": "MieShop.Cores\\MieShop.Cores.csproj",
+              "ToolTip": "D:\\ProjectCSharp\\MieShop\\MieShop.Cores\\MieShop.Cores.csproj",
+              "RelativeToolTip": "MieShop.Cores\\MieShop.Cores.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T07:50:26.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
