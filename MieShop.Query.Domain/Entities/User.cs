@@ -26,5 +26,8 @@ namespace MieShop.Query.Domain.Entities
         public virtual ICollection<User>? Users { get; set; }
         public virtual ICollection<ConfirmEmail>? ConfirmEmails { get; set; }
         public virtual ICollection<RefreshToken>? RefreshTokens { get; set; }
+        public virtual ICollection<UserSession>? UserSessions { get; set; }
+        public virtual ICollection<UserRole>? UserRoles { get; set; }
+        public virtual ICollection<Shop>? Shops { get; set; }
     }
 }
