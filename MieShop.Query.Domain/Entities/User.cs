@@ -29,5 +29,10 @@ namespace MieShop.Query.Domain.Entities
         public virtual ICollection<UserSession>? UserSessions { get; set; }
         public virtual ICollection<UserRole>? UserRoles { get; set; }
         public virtual ICollection<Shop>? Shops { get; set; }
+        public virtual ICollection<Collection>? Collections { get; set; }
+        public virtual ICollection<UserVoucher>? UserVouchers { get; set; }
+        public virtual ICollection<FavoriteProduct>? FavoriteProducts { get; set; }
+        public virtual ICollection<ProductReview>? ProductReviews { get; set; }
+        public virtual ICollection<ShippingMethodProduct>? ShippingMethodProducts { get; set; }
     }
 }
