@@ -1,5 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using MieShop.Query.Infrastructure.DataAccess;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDbContext<DatabaseContext>(option => option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Add services to the container.
 
 builder.Services.AddControllers();
