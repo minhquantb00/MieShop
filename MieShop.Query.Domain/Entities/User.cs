@@ -34,5 +34,8 @@ namespace MieShop.Query.Domain.Entities
         public virtual ICollection<FavoriteProduct>? FavoriteProducts { get; set; }
         public virtual ICollection<ProductReview>? ProductReviews { get; set; }
         public virtual ICollection<ShippingMethodProduct>? ShippingMethodProducts { get; set; }
+        public virtual ICollection<ChatMessage>? ChatMessages { get; set; }
+        public virtual ICollection<Participant>? Participants { get; set; }
+        public virtual ICollection<Conversation>? Conversations { get; set; }
     }
 }
